@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: interstellar
+    name: wwww2
     env: docker
     plan: free
